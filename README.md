@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritha Raj</h1>
-<h3 align="center">A passionate data analyst from NIT Trichy, India</h3>
+<h3 align="center">3rd year ECE student at NIT Trichy, India - peak interest in ML/AI, data analytics and data science</h3>
 
 - 📫 How to reach me **amritha69raj@gmail.com**
 
